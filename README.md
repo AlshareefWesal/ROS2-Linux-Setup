@@ -183,6 +183,6 @@ This confirms that the ROS 2 environment is working correctly.
 
 ## Author
 
-**Wesal Ibrahim Alsharif**
+**Wesal Ibrahim Alshareef**
 
 CS Student at Taif University
